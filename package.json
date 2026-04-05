@@ -1,0 +1,14 @@
+{
+  "name": "artis-telegram-bot",
+  "version": "1.0.0",
+  "description": "ARTIS ☀️ — Telegram Bot by Art",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "@anthropic-ai/sdk": "^0.24.0"
+  }
+}
